@@ -115,6 +115,11 @@ void Game::HandleInput()
             break;
         }
     }
+
+    if (gameState == WELCOME_SCREEN || gameState == PLAYING)
+    {
+        PlayMusicStream(music);
+    }
 }
 
 void Game::MoveBlockLeft()
