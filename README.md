@@ -5,28 +5,20 @@ _____
 Игра имеет простые, но увлекательные механики, что делает ее привлекательной для широкой аудитории.
 
 
-![icon](https://github.com/linagrach/Tanks-Battle/assets/169918897/47914fc3-8667-49cb-aed8-6badc25eeba6)
-
 _____
 ## 2. Демонстрация
 ### Изображения состояний игры:
 + Состояние игры: меню 
 
 ![Снимок экрана 2024-05-25 133632](https://github.com/ayanakend/TetrisGame/assets/114924178/5c93d479-d233-4515-8984-9d2f2b7c9439)
-![Снимок экрана 2024-05-25 133632](https://github.com/ayanakend/TetrisGame/assets/114924178/5c93d479-d233-4515-8984-9d2f2b7c9439)
-
 
 + Состояние игры: падающие фигуры
 
 ![Снимок экрана 2024-05-25 135642](https://github.com/ayanakend/TetrisGame/assets/114924178/e757d67f-7e09-41ac-b436-f79a7711f13c)
-![Снимок экрана 2024-05-25 135642](https://github.com/ayanakend/TetrisGame/assets/114924178/e757d67f-7e09-41ac-b436-f79a7711f13c)
-
 
 + Состояние игры: проигрыш
   
 ![Снимок экрана 2024-05-25 134912](https://github.com/ayanakend/TetrisGame/assets/114924178/6c56a04f-0806-4eb2-bae7-1bf3bdbef8b5)
-![Снимок экрана 2024-05-25 134912](https://github.com/ayanakend/TetrisGame/assets/114924178/6c56a04f-0806-4eb2-bae7-1bf3bdbef8b5)
-
 
 ### Видео игры:
 
